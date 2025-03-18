@@ -34,7 +34,7 @@ Sou um apaixonado por tecnologia e programação, sempre buscando aprender e evo
 
 ### 📫 Onde me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/JhonatanDeLima/JhonatanDeLima/edit/main/README.md](https://github.com/JhonatanDeLima))  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/JhonatanDeLima))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatandelimaalvesdossantos/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JhonatandeLima.TI@gmail.com)
 
