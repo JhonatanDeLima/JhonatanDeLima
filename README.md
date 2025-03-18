@@ -1,4 +1,4 @@
-## 👨‍💻 Jhonatan de Lima Alves dos Santos
+# 👨‍💻 Jhonatan de Lima Alves dos Santos
 
 **`Desenvolvedor e Estudante`**
 
@@ -18,24 +18,24 @@ Sou um apaixonado por tecnologia e programação, sempre buscando aprender e evo
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
+### 📊 **Estatísticas do GitHub**
 
-### 📊 Estatísticas do GitHub
-
-![Jhonatan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&theme=tokyonight&layout=compact)
+![Jhonatan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonatanDeLima&show_icons=true&theme=tokyonight)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanDeLima&theme=tokyonight&layout=compact&langs_count=5)
 
 ---
 
-### 📂 Exercícios de Java
+### 📂 **Projetos Java**
 
-💡 Aqui estão alguns dos exercícios de Java que desenvolvi durante meus estudos:
+Aqui estão alguns dos projetos em Java que desenvolvi:
 
-- 📌 **(https://github.com/JhonatanDeLima/Java-USJT)**
+- 📌 **[Java-USJT - Universidade São Judas Tadeu](https://github.com/JhonatanDeLima/Java-USJT/tree/main/Java)** : Projetos e exercícios desenvolvidos durante o curso de Ciência da Computação.
 
 ### 📫 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/JhonatanDeLima))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatandelimaalvesdossantos/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JhonatandeLima.TI@gmail.com)
+
 
 🚀 **Vamos construir algo incrível juntos!**
