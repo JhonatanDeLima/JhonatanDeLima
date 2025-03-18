@@ -30,7 +30,7 @@ Sou um apaixonado por tecnologia e programação, sempre buscando aprender e evo
 
 💡 Aqui estão alguns dos exercícios de Java que desenvolvi durante meus estudos:
 
-- 📌 **
+- 📌 **(https://github.com/JhonatanDeLima/Java-USJT)**
 
 ### 📫 Onde me encontrar
 
